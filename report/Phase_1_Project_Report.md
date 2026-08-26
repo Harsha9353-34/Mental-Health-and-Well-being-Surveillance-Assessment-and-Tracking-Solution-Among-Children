@@ -293,6 +293,15 @@ Because this system targets pediatric users in India, the architectural design i
 
 ---
 
+## 4.3 Visual Project Gantt Chart
+
+![Figure 3: Project Gantt Chart and Milestone Roadmap Across Major Project Lifecycle](../diagrams/gantt_chart.png)
+
+*Figure 3: Project Gantt Chart and Milestone Roadmap Across Major Project Lifecycle.*
+
+
+---
+
 # 5. References
 
 1. World Health Organization, *World Mental Health Report: Transforming mental health for all*, Geneva: World Health Organization, 2022. [Online]. Available: https://www.who.int/publications/i/item/9789240049338
