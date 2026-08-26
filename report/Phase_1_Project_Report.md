@@ -259,45 +259,36 @@ Because this system targets pediatric users in India, the architectural design i
 
 # 4. Section 4: Project Timeline & Gantt Chart
 
-## 4.1 Work Breakdown Structure (WBS)
+## 4.1 Work Breakdown Structure (WBS: Aug 10 – Nov 28, 2026)
 
-| Task ID | Task Description | Phase | Weeks | Deliverable |
+| Task ID | Task Description | Calendar Dates | Weeks | Deliverable |
 |---|---|:---:|:---:|---|
-| **T1.1** | Problem Formulation & Scope Definition | Phase 1 | W1–W2 | Problem Statement Document |
-| **T1.2** | Literature Review & Research Gap Analysis | Phase 1 | W2–W4 | Literature Survey Matrix |
-| **T1.3** | System Requirements & Privacy Modeling | Phase 1 | W4–W5 | SRS & Privacy Framework |
-| **T1.4** | Multi-Tier Architecture & DFD Design | Phase 1 | W5–W7 | Architecture Blueprint |
-| **T1.5** | Feature Engineering & Dataset Schema | Phase 1 | W7–W9 | Dataset Specification |
-| **T1.6** | Preliminary ML/NLP Pipeline Scaffolding | Phase 1 | W9–W10 | Baseline Pipeline Architecture |
-| **T1.7** | Phase 1 Report Compilation & Defense | Phase 1 | W11–W12 | **Phase 1 Report & Defense** |
-| **T2.1** | Dataset Curation, Cleaning & Validation | Phase 2 | W13–W14 | Validated Training Dataset |
-| **T2.2** | Supervised ML Model Training & Tuning | Phase 2 | W15–W16 | Trained Model Artifacts |
-| **T2.3** | NLP Sentiment Engine Implementation | Phase 2 | W17–W18 | Working Sentiment Module |
-| **T2.4** | Frontend Development (Child & Parent UI) | Phase 2 | W19–W20 | Multi-Role Streamlit App |
-| **T2.5** | Coping Toolkit & Crisis Referral Hub | Phase 2 | W20–W21 | Interactive Coping Tools |
-| **T2.6** | System Integration & Usability Testing | Phase 2 | W21–W22 | Integration Test Logs |
-| **T2.7** | Final Project Thesis & Major Defense | Phase 2 | W23–W24 | **Final B.Tech Thesis & Demo** |
+| **T1.1** | Problem Formulation & Scope Definition | Aug 10 – Aug 22, 2026 | W1–W2 | Problem Statement Document |
+| **T1.2** | Literature Review & Research Gap Analysis | Aug 24 – Sep 12, 2026 | W3–W5 | Literature Survey Matrix (10 Papers) |
+| **T1.3** | System Requirements & Privacy Modeling | Sep 14 – Sep 26, 2026 | W6–W7 | SRS & DPDP Act 2023 Plan |
+| **T1.4** | 5-Tier Architecture & DFD Level 0/1 Design | Sep 28 – Oct 17, 2026 | W8–W10 | Architecture Blueprint & DFDs |
+| **T1.5** | Feature Engineering & Dataset Schema | Oct 19 – Oct 31, 2026 | W11–W12 | Feature Vector Specification |
+| **T1.6** | Preliminary ML/NLP Pipeline Scaffolding | Nov 02 – Nov 14, 2026 | W13–W14 | Baseline Pipeline Architecture |
+| **T1.7** | Phase 1 Report Compilation & Defense | Nov 16 – Nov 28, 2026 | W15–W16 | **Phase 1 Report (.docx) & Defense (★)** |
 
 ---
 
-## 4.2 Project Timeline & Milestones
+## 4.2 Phase 1 Monthly Schedule & Milestones
 
 | Timeline | Milestone Focus | Key Academic Deliverable |
 |---|---|---|
-| **Month 1 (Weeks 1–4)** | Literature Review & Problem Definition | Comprehensive Literature Survey Matrix |
-| **Month 2 (Weeks 5–8)** | Architecture Design & Privacy Framework | 5-Tier Architecture Blueprint & DFD Specifications |
-| **Month 3 (Weeks 9–12)** | **Phase 1 Evaluation & Defense** | **Phase 1 Project Report & Interim Presentation** |
-| **Month 4 (Weeks 13–16)** | Dataset Curation & ML Model Training | Trained Multi-Class Classifiers & Scaler Artifacts |
-| **Month 5 (Weeks 17–20)** | NLP Sentiment Engine & UI Integration | Fully Integrated Streamlit Platform (`app.py`) |
-| **Month 6 (Weeks 21–24)** | **Final Evaluation & Thesis Defense** | **Final B.Tech Thesis, Working Demo & Viva Voce** |
+| **August 2026 (Weeks 1–3)** | Problem Formulation & Literature Review Inception | Problem Statement & Initial Survey |
+| **September 2026 (Weeks 4–7)** | Literature Review Finalization & SRS/Privacy Modeling | Literature Survey Matrix & DPDP Act Plan |
+| **October 2026 (Weeks 8–12)** | 5-Tier Architecture, DFD Modeling & Feature Schema | Architecture Blueprint & Dataset Spec |
+| **November 2026 (Weeks 13–16)** | Pipeline Verification, Report Finalization & Defense | **Phase 1 Report (.docx) & Project Defense (★)** |
 
 ---
 
 ## 4.3 Visual Project Gantt Chart
 
-![Figure 3: Project Gantt Chart and Milestone Roadmap Across Major Project Lifecycle](../diagrams/gantt_chart.png)
+![Figure 3: Phase 1 Project Gantt Chart (August 10 – November 28, 2026)](../diagrams/gantt_chart.png)
 
-*Figure 3: Project Gantt Chart and Milestone Roadmap Across Major Project Lifecycle.*
+*Figure 3: Phase 1 Project Gantt Chart (August 10 – November 28, 2026).*
 
 
 ---
