@@ -6,13 +6,13 @@ This project focuses on the conceptualization, architectural design, and prelimi
 
 Emerging pediatric emotional distress often manifests through observable lifestyle and behavioral shifts (such as chronic sleep insufficiency, high sedentary screen exposure, academic strain, and social withdrawal). The proposed solution combines an engaging, low-cognitive-load interface (single-tap emoji mood check-ins and an optional reflective journal) with a dual-modality intelligence pipeline: (1) supervised machine learning classification for non-diagnostic lifestyle risk stratification (*Low / Healthy*, *Moderate / Monitoring*, *Elevated / Action Advised*), and (2) natural language processing (NLP) for emotional valence and affective tone scoring. The platform bridges early distress surveillance with immediate, non-clinical psychoeducational calming tools (visual 4-7-8 breathing pacers and grounding exercises) and provides caregivers with explainable longitudinal trend dashboards alongside verified emergency crisis referral pathways.
 
-## Student
+## Students
 
-Harsha R
-
-## USN
-
-20231CSE0261
+| Name | USN |
+|---|---|
+| Harsha R | 20231CSE0261 |
+| ARJUN M | 20231CSE0277 |
+| ABHISHEK MR | 20231CSE0268 |
 
 ## Guide
 
@@ -54,10 +54,8 @@ Applied Artificial Intelligence, Health Informatics, Human-Computer Interaction
 │
 ├── docs/
 │   └── Phase_1_Project_Report_Harsha_R_20231CSE0261.docx # Final university-submission-ready Word report
-│
 ├── report/
 │   └── Phase_1_Project_Report.md                         # Complete academic Phase 1 report in Markdown format
-│
 └── diagrams/
     ├── system_architecture.png                           # Publication-quality 5-tier system architecture diagram
     └── data_flow_diagram.png                             # End-to-end data flow and decision-support pipeline diagram
