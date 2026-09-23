@@ -21,6 +21,12 @@ import joblib
 import numpy as np
 import pandas as pd
 
+if hasattr(sys.stdout, "reconfigure"):
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")
+    except Exception:
+        pass
+
 from sklearn.ensemble        import RandomForestClassifier
 from sklearn.preprocessing   import StandardScaler
 from sklearn.model_selection import StratifiedKFold, cross_val_score

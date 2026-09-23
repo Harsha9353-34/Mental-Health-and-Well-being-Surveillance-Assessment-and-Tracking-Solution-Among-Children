@@ -16,8 +16,15 @@ Output:
 """
 
 import os
+import sys
 import numpy as np
 import pandas as pd
+
+if hasattr(sys.stdout, "reconfigure"):
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")
+    except Exception:
+        pass
 
 # ---------------------------------------------------------------------------
 # Configuration
