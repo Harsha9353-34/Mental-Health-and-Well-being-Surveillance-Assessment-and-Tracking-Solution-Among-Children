@@ -22,3 +22,9 @@ desktop.ini
 *.log
 scratch/
 .system_generated/
+
+# Phase 2: Runtime check-in history (user data — do not commit)
+data/checkin_history.csv
+
+# Phase 2: Trained model binary (large — regenerate with: python src/ml/train.py)
+# models/risk_classifier.pkl
