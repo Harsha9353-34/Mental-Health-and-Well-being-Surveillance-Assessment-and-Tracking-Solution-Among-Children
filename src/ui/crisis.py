@@ -164,6 +164,7 @@ def _disclaimer() -> None:
         > - In all psychiatric emergencies, immediately contact qualified healthcare professionals
         >   and/or emergency services (**112**).
         >
-        > *Student: Harsha R (20231CSE0261) | Guide: Mr. Jetti Satya Sai Kumar*
+        > *Team: Harsha R (20231CSE0261) · Arjun M (20231CSE0277) · Abhishek MR (20231CSE0268)*
+        > *Guide: Mr. Jetti Satya Sai Kumar | Presidency University, Bengaluru*
         """
     )

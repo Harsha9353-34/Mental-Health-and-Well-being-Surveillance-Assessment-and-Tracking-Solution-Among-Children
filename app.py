@@ -5,7 +5,9 @@ Assessment and Tracking Solution Among Children.
 Main Streamlit Application Entry Point.
 
 Academic Prototype | Presidency University, Bengaluru
-Student   : Harsha R (20231CSE0261)
+Students  : Harsha R (20231CSE0261)
+            Arjun M (20231CSE0277)
+            Abhishek MR (20231CSE0268)
 Guide     : Mr. Jetti Satya Sai Kumar
 Academic Year: 2026–2027
 
@@ -134,7 +136,7 @@ def _render_sidebar() -> str:
         st.caption(
             "⚕️ *Non-clinical academic prototype.*\n\n"
             "Presidency University, Bengaluru\n\n"
-            "Harsha R | 20231CSE0261"
+            "Harsha R · Arjun M · Abhishek MR"
         )
 
     return selected
@@ -155,7 +157,9 @@ def _render_home() -> None:
             </h3>
             <p style="color:#95a5a6; margin-top:8px; font-size:14px;">
                 Presidency University, Bengaluru &nbsp;|&nbsp;
-                Harsha R (20231CSE0261)
+                Harsha R (20231CSE0261) &nbsp;·&nbsp;
+                Arjun M (20231CSE0277) &nbsp;·&nbsp;
+                Abhishek MR (20231CSE0268)
             </p>
         </div>
         """,
@@ -245,6 +249,16 @@ def _render_home() -> None:
         | 3 — ML Intelligence | Risk stratification (3-class) | Random Forest + StandardScaler |
         | 4 — NLP Intelligence | Journal sentiment analysis | VADER SentimentIntensityAnalyzer |
         | 5 — Data Persistence | Session-scoped anonymised check-in history | Local CSV (no PII) |
+
+        **Team:**
+
+        | Name | USN |
+        |---|---|
+        | Harsha R | 20231CSE0261 |
+        | Arjun M | 20231CSE0277 |
+        | Abhishek MR | 20231CSE0268 |
+
+        **Guide:** Mr. Jetti Satya Sai Kumar | Presidency University, Bengaluru
 
         **Privacy-by-Design (DPDP Act 2023, Section 9):**
         - No personally identifiable information (PII) collected or stored
