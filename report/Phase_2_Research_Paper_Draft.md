@@ -1,8 +1,9 @@
 # MindBridge: An AI-Augmented Non-Clinical Surveillance and Well-being Tracking Platform for Children Using Machine Learning and Natural Language Processing
 
-**Harsha R¹, Mr. Jetti Satya Sai Kumar²**
+**Harsha R¹, Arjun M¹, Abhishek MR¹, Mr. Jetti Satya Sai Kumar²**
 
-¹ B.Tech Student, Department of Computer Science and Engineering, Presidency University, Bengaluru — 20231CSE0261  
+¹ B.Tech Students, Department of Computer Science and Engineering, Presidency University, Bengaluru  
+  (USNs: 20231CSE0261, 20231CSE0277, 20231CSE0268)  
 ² Assistant Professor, Department of Computer Science and Engineering, Presidency University, Bengaluru
 
 *Academic Year: 2026–2027*
